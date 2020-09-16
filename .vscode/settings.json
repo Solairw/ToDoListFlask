@@ -1,0 +1,7 @@
+{
+    "editor.accessibilityPageSize": 16,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask"
+    ]
+}
